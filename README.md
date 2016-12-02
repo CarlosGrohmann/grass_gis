@@ -1,2 +1,2 @@
-# grass_gis
-GRASS-GIS scripts, add-ons, etc
+# GRASS-GIS
+GRASS-GIS scripts, add-ons, etc.
